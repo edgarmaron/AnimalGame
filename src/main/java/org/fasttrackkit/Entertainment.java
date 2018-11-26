@@ -8,7 +8,7 @@ public class Entertainment {
         name = name1;
 
     }
-    void walk (Rescuer rescuer,Animal animal){
+    void activity (Rescuer rescuer,Animal animal){
         System.out.println (rescuer.name+" "+"is" +" "+name+" with "+animal.name);
     }
 }
